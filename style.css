@@ -3,6 +3,15 @@ body {
     background-size: cover;
 }
 
+a {
+  margin-bottom: 20px;
+  text-decoration: none;
+  background-color: gray;
+  color: white;
+  border-radius:5px;
+  padding: 0px 5px 0px 5px;
+}
+
 #top, #main {
   margin: auto;
   text-align: center;
@@ -17,7 +26,7 @@ body {
     border-radius: 15px;
     margin-top: 15vh;
     width: 300px;
-    background-color: azure;
+    background-color: white;
 }
 
 .imagem {
