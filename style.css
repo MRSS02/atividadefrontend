@@ -1,0 +1,25 @@
+body {
+    background-image: url("./fundo.jpg");
+    background-size: cover;
+}
+
+#top, #main {
+  margin: auto;
+  text-align: center;
+}
+
+#top {
+  width: 30%;
+  margin-top: 10vh;
+}
+
+#main {
+    border-radius: 15px;
+    margin-top: 15vh;
+    width: 300px;
+    background-color: azure;
+}
+
+.imagem {
+  height: 20vh;
+}
